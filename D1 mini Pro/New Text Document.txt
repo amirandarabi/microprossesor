@@ -1,0 +1,20 @@
+11 digital input/output pins
+Interrupt/pwm/I2C/one-wire
+1 analog input(3.2V max input)
+16M bytes(128M bit) Flash
+External antenna connector
+Built-in PCB antenna
+Lithium battery interface, 500mA Max charging current
+LOLIN I2C Port
+Compatible with Arduino, MicroPython, NodeMCU
+Default firmware: lastest MicroPython
+
+Microcontroller	ESP-8266EX
+Operating Voltage	3.3V
+Digital I/O Pins	11
+Analog Input Pins	1(Max input: 3.2V)
+Clock Speed	80MHz/160MHz
+Flash	16M bytes
+Length	48mm
+Width	25.4mm
+Weight	4.5g

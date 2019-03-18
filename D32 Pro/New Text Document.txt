@@ -1,0 +1,25 @@
+Espressif official ESP32-WROVER module
+Lastest ESP32 Version: REV1
+4MB FLASH
+4MB PSRAM
+Lithium battery interface, 500mA Max charging current
+LOLIN I2C port
+LOLIN TFT port
+TF (Micro SD) Card slot, support SPI mode.
+Compatible with Arduino, MicroPython
+Default firmware: lastest MicroPython
+
+
+Microcontroller	ESP-32
+Board Power Supply (USB)	5V
+Supported Batteries	Lipo Battery 3.7V
+Operating Voltage	3.3V
+Digital I/O Pins	22
+Analog Input Pins	6 (VP, VN, 32, 33, 34, 35)
+Analog Output Pins	2 (25, 26)
+LED_BUILTIN	5
+Clock Speed(Max)	240Mhz
+Flash	4M bytes
+Length	65mm
+Width	25.4mm
+Weight	7.5g

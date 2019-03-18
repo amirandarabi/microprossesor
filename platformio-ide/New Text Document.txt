@@ -1,0 +1,10 @@
+Rapid Development
+C/C++ Intelligent Code Completion and Smart Code Linter for rapid professional development.
+Multi-projects workflow with Multiple Panes. Themes Support with dark and light colors.
+
+Embedded Development
+Multi-platform Build System without external dependencies to operating system: 550+ embedded boards, 25+ development platforms, 15+ frameworks. 
+Arduino and ARM mbed compatible.
+
+Unified Debugger
+PIO Unified Debugger with a support for the multiple architectures and development platforms that allows you to debug more than 250+ embedded boards with Zero-Configuration!

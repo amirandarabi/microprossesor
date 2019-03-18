@@ -1,0 +1,20 @@
+Espressif official ESP32-WROOM-32 module
+Lastest ESP32 Version: REV1
+4MB FLASH
+Lithium battery interface, 500mA Max charging current
+Compatible with Arduino, MicroPython
+Default firmware: lastest MicroPython
+
+Microcontroller	ESP-32
+Board Power Supply (USB)	5V
+Supported Batteries	Lipo Battery 3.7V
+Operating Voltage	3.3V
+Digital I/O Pins	22
+Analog Input Pins	6 (VP, VN, 32, 33, 34, 35)
+Analog Output Pins	2 (25, 26)
+LED_BUILTIN	5
+Clock Speed(Max)	240Mhz
+Flash	4M bytes
+Length	57mm
+Width	25.4mm
+Weight	6.1g
